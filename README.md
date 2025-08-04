@@ -5,7 +5,7 @@ This project outlines the complete workflow for performing data analysis on agri
 
 ---
 
-![Agriculture](Report.jpg)
+![Agriculture](Report.png)
 
 ---
 
