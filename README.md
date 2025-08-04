@@ -5,6 +5,10 @@ This project outlines the complete workflow for performing data analysis on agri
 
 ---
 
+![Agriculture](Report.jpg)
+
+---
+
 ## 🛠️ Prerequisites
 
 Before starting, make sure you have the following:
